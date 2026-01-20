@@ -1,0 +1,52 @@
+/***** BASE STYLES *****/
+
+body {
+  font-size: 16px;
+  font-family: sans-serif;
+  margin: 0 auto;
+  background: #faf5f5;
+  max-width: 800px;
+}
+
+.caveat-heading  {
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+h1 {
+  font-size: 2.25em;
+  color: #481d46;
+  margin-top: 1em;
+  text-align: center;
+  font-family: caveat;
+
+}
+
+h2 {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #3f3737;
+  text-align: center;
+  padding-bottom: 2em;
+
+}
+
+h4{
+  font-family: caveat;
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #3f3737;
+  text-align: center;
+
+a {
+  text-decoration: none;
+  color: #e93c34;
+  line-height: 2;
+}
+
+footer {
+  text-align: center;
+  padding-top: 1em;
+}

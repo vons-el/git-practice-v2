@@ -1,0 +1,51 @@
+/****** Global Styles ******/
+body {
+    font-family: 'Winky Sans', sans-serif;
+    background: #ffccdd;
+    width: 1200px;
+    margin: auto;
+    padding: 50px 0px;
+}
+
+
+/****** Body Styles ******/
+a {
+    color: #8a8a5c;
+    font-size: 10px;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+header h1 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 50px;
+    color: #e6004c;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.advice h2 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 30px;
+    color: #ff3385;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.advice p {
+    font-size: 20px;
+    color: black;
+    float: left;
+    margin: auto;
+    text-align: justify;
+    line-height: 25px;
+}
+
+/****** Footer Styles ******/
+footer p {
+    color: black;
+    font-size: 10px;
+    text-align: right;
+    text-transform: uppercase;
+}
